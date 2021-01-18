@@ -9,6 +9,9 @@
 - dotenv
 - nodemon
 
+Startar Aplicação Node
+`npm start`
+
 --------------------------------------------------------------------------------
 ### FRONTEND - REACT
 
@@ -18,6 +21,7 @@ Projeto Inicializado com: [Create React App](https://github.com/facebook/create-
 
 ### Startando
 
-`npm start` ou `yarn start`
+`npm start`
 
 Abra no seu navegador: [http://localhost:3000](http://localhost:3000) 
+
