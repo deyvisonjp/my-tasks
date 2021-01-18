@@ -2,6 +2,8 @@
 
 ### BACKEND - NODE
 
+Esta rodando na porta 3333
+
 ### Dependências utlizadas
 - express;
 - cors;
@@ -9,8 +11,10 @@
 - dotenv
 - nodemon
 
-Startar Aplicação Node
-`npm start`
+*Startar Aplicação Node*
+`npm start`   
+
+*Configurar arquivo .env com a conexao de dados para o mongoose*
 
 --------------------------------------------------------------------------------
 ### FRONTEND - REACT
