@@ -1,31 +1,34 @@
-## Projeto Minhas tarefas
+# Projeto Minhas Tarefas
 
-### BACKEND - NODE
+### instalar dependências
+`npm install`
 
-Esta rodando na porta 3333
+# BACKEND - NODE
 
 ### Dependências utlizadas
 - express;
 - cors;
 - mongoose;
-- dotenv
-- nodemon
+- dotenv;
+- nodemon.
 
-*Startar Aplicação Node*
+### Como executar o projeto back
 `npm start`   
+*Esta rodando na porta 3333*
 
 *Configurar arquivo .env com a conexao de dados para o mongoose*
 
---------------------------------------------------------------------------------
-### FRONTEND - REACT
+# FRONTEND - REACT
 
 ### Criando o aplicativo react
 
 Projeto Inicializado com: [Create React App](https://github.com/facebook/create-react-app).
 
-### Startando
-
+### Como executar o projeto front
 `npm start`
 
 Abra no seu navegador: [http://localhost:3000](http://localhost:3000) 
 
+
+# Autor
+Deyvison J Paula
